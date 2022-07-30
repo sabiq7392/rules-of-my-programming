@@ -41,9 +41,9 @@
 <h3>class/function parent</h3>
 
 rules 
-	- first word should be uppercase
+	first word should be uppercase
 
 examples
-	- Appbar
-	- AuthController
+	Appbar
+	AuthController
 	
