@@ -1,12 +1,12 @@
 <h1>My Rules of Programming</h1>
 
 <h2>Folder Structure</h2>
-pages
+<h3>pages</h3>
 
 	_app.page.tsx
 	index.page.tsx
 
-src
+<h3>src</h3>
 
 	sidebar
 		sidebar.component.tsx
@@ -39,7 +39,9 @@ src
 		
 <h2>Naming Code</h2>
 <h3>class/function parent</h3>
+
 rules: first word should be uppercase
+
 examples:
 	Appbar
 	AuthController
