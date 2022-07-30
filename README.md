@@ -1,11 +1,11 @@
 <h1>My Rules of Programming</h1>
 
 <h2>Folder Structure</h2>
-#pages
+pages
 	_app.page.tsx
 	index.page.tsx
 
-#src
+src
 	sidebar
 		sidebar.component.tsx
 		sidebar.stories.tsx
@@ -36,9 +36,9 @@
 	sockets
 		
 <h2>Naming Code</h2>
-class/function parent: 
-  rules: first word should be uppercase
-  examples:
-    Appbar
-    AuthController
+<h3>class/function parent</h3>
+rules: first word should be uppercase
+examples:
+	Appbar
+	AuthController
 	
