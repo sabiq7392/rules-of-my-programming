@@ -40,10 +40,10 @@
 <h2>Naming Code</h2>
 <h3>class/function parent</h3>
 
-rules 
-	first word should be uppercase
+	rules 
+		first word should be uppercase
 
-examples
-	Appbar
-	AuthController
-	
+	examples
+		Appbar
+		AuthController
+		
