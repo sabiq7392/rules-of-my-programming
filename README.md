@@ -2,10 +2,12 @@
 
 <h2>Folder Structure</h2>
 pages
+
 	_app.page.tsx
 	index.page.tsx
 
 src
+
 	sidebar
 		sidebar.component.tsx
 		sidebar.stories.tsx
